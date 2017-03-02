@@ -1,7 +1,7 @@
 /* 
 * @Author Gökcan Degirmenci - Skylifee7
 *
-* FizzBuzz is a classical, entry-level Algorithms question that tries to outputs "1 to n" indices 
+* FizzBuzz is a classical, entry-level Algorithms question that tries to output "1 to n" indices 
 * If the current indice is multiples of three it should output “Fizz” instead of the number 
 * and for the multiples of five it outputs “Buzz”. 
 * For numbers which are multiples of both three and five output “FizzBuzz”.
