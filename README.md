@@ -1,2 +1,5 @@
-# Leet-Code-Solutions
-LeetCode Only Judge Algorithms Questions
+# LeetCode OJ Questions' Solutions
+
+This repository will be updated daily or weekly. 
+
+
